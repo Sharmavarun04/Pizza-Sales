@@ -1,6 +1,12 @@
-# Pizza-Sales
-Pizza sales report for 1 year along with KPI to track the orders performance and total revenue generated in last one year.
-Most sold and less sold pizza via category.
+**Pizza-Sales**
+SQL + BI Project to Analyze the Sales of a Pizza Store
+This 1 year Pizza sales report helps to track the orders performance, total revenue generated and KPI of last one year.
+It covers some clients requirements like- 
+Most sold items
+less sold items 
+category wise tracking of Pizzas &
 Weekdays wise pizza sale
+
+**Database & Tools**
 
 If you like this project please do star rating.
