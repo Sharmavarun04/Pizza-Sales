@@ -9,5 +9,6 @@ category wise tracking of Pizzas &
 Weekdays wise pizza sale
 
 **Database & Tools**
-
+SSMS
+Power Query & Power BI
 If you like this project please do star rating.
