@@ -1,4 +1,5 @@
 **Pizza-Sales**
+
 SQL + BI Project to Analyze the Sales of a Pizza Store
 This 1 year Pizza sales report helps to track the orders performance, total revenue generated and KPI of last one year.
 It covers some clients requirements like- 
